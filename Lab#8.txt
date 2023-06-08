@@ -1,0 +1,4 @@
+Name = SabahunNoor
+Semster = 6th
+Subject  = SCAD
+Lab-Task = 8
